@@ -11,8 +11,8 @@ __EaseInShare__ is a __full stack__ file sharing app that will allow users to up
 HTML | CSS | JavaScript | EJS | Node.js | Express.js | MongoDB | Gmail service
 
 ### Project Details:
-In this project, we used HTML, CSS and JavaScript to make the frontend of the website.
-We built APIs for a file sharing app using Node Js, Express Js and Mongo DB. 
-We used a package called __Multer__ to upload a file in Node Js.
-We also used __nodemailer__ to send emails using gmail service from our node server.
-We will also schedule a script on the server so we could delete 24 hours old files from the storage.
+1. In this project, we used HTML, CSS and JavaScript to make the frontend of the website.
+2. We built APIs for a file sharing app using Node Js, Express Js and Mongo DB. 
+3. We used a package called __Multer__ to upload a file in Node Js.
+4. We also used __nodemailer__ to send emails using gmail service from our node server.
+5. We will also schedule a script on the server so we could delete 24 hours old files from the storage.
